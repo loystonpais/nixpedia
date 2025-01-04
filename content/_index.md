@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: NixPedia. The Nix Encyclopedia
 toc: false
 ---
 

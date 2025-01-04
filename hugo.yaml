@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: nixpedia
 
 # import hextra as module
 module:
@@ -33,7 +33,7 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/loystonpais/nixconfig"
       params:
         icon: github
     - name: Twitter
